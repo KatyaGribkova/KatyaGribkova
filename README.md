@@ -1,7 +1,9 @@
 
 #### 🐙 Current Work & Interests: Models of decision-making, learning, and memory.
 Additional projects and collaborations:
+
 https://github.com/Entience/ASIMOV
+
 https://github.com/Entience/Cyberslug
 
 <!--
